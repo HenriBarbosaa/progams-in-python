@@ -7,7 +7,6 @@ import openpyxl
 import pathlib
 from openpyxl import Workbook
 
-
 #assim se faz o set de aparencia padrão do Sistema:
 ctk.set_appearance_mode("System")
 ctk.set_default_color_theme("blue")
